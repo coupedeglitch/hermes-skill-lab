@@ -24,8 +24,11 @@ jangan diakali dengan `--force` di jalur project.
 
 | Skill | Asal | Kenapa |
 |---|---|---|
-| humanizer | blader/humanizer (MIT) | Hapus pola tulisan AI. Dipakai untuk draf post X. |
 | i-have-adhd | ayghri/i-have-adhd (MIT) | Output style: aksi dulu, langkah bernomor. Opsional. |
+| archify | tt-a1i/archify (MIT) | Diagram interaktif dari kode/ide (butuh node). |
+| planning-with-files | OthmanAdi/planning-with-files (MIT) | Rencana markdown di disk untuk task panjang. |
+
+`humanizer` tidak di-vendor: Hermes sudah punya versi builtin (`creative/humanizer`, port resmi v2.5.1).
 
 Skill pihak ketiga tetap milik penulisnya; lisensi di tiap folder.
 
